@@ -57,6 +57,6 @@ Suggest new features
 
 GitHub: https://github.com/vinnu269
 
-Email: swaroopmanchala323@gmail.com
+Email: vishnumangina543@gmail.com
 
 🔥 Happy Coding & Keep Growing 🌿🌎
