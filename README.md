@@ -23,7 +23,7 @@ This app leverages *fine-tuned deep learning models (ResNet & VGG)* to identify 
 - requirements.txt : Python dependencies.  
 - README.md : Project documentation.  
 
-👉 Models are hosted on *Hugging Face*:  https://huggingface.co/spaces/Vinnu12/plant-disease-predictor
+👉 Models are hosted on *Hugging Face*:  https://huggingface.co/spaces/Vinnu12/plant-disease-predictor/tree/main
 
 This file is not present locally, it will be automatically downloaded from:
 - 🔗[plant_disease_resnet.keras](https://huggingface.co/spaces/Vinnu12/plant-disease-predictor/blob/main/plant_disease_resnet.keras)  
